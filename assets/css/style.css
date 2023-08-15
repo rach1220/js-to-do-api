@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@700&family=Poppins&family=Roboto+Condensed:wght@300&display=swap');
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+.header {
+    margin: 50px 100px;
+    text-align: center;
+    font-family: 'Cabin Sketch', cursive;
+    font-size: x-large;
+}
+.createTask {
+    margin: 10px 100px;
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.sched {
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Roboto Condensed', sans-serif;    
+}
+.columnNames {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
